@@ -6,7 +6,18 @@
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "firstName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "lastName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
     "ReturnTypes": []
   },
   {

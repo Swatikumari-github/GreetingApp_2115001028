@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "\\BusinessLayer",
+    "\\BusinessLayer\\Interface",
+    "\\BusinessLayer\\Service",
+    "\\HelloGreetingApp",
+    "\\HelloGreetingApp\\Controllers"
+  ],
+  "PreviewInSolutionExplorer": false
+}

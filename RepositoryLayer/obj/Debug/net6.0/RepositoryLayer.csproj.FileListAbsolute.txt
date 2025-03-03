@@ -10,3 +10,4 @@ C:\Users\swati\OneDrive\Desktop\HelloGreetingApp\RepositoryLayer\obj\Debug\net6.
 C:\Users\swati\OneDrive\Desktop\HelloGreetingApp\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
 C:\Users\swati\OneDrive\Desktop\HelloGreetingApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
 C:\Users\swati\OneDrive\Desktop\HelloGreetingApp\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
+C:\Users\swati\OneDrive\Desktop\HelloGreetingApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.sourcelink.json

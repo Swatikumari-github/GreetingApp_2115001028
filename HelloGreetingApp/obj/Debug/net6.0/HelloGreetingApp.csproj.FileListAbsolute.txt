@@ -44,3 +44,4 @@ C:\Users\swati\OneDrive\Desktop\HelloGreetingApp\HelloGreetingApp\obj\Debug\net6
 C:\Users\swati\OneDrive\Desktop\HelloGreetingApp\HelloGreetingApp\obj\Debug\net6.0\HelloGreetingApp.pdb
 C:\Users\swati\OneDrive\Desktop\HelloGreetingApp\HelloGreetingApp\obj\Debug\net6.0\HelloGreetingApp.genruntimeconfig.cache
 C:\Users\swati\OneDrive\Desktop\HelloGreetingApp\HelloGreetingApp\obj\Debug\net6.0\ref\HelloGreetingApp.dll
+C:\Users\swati\OneDrive\Desktop\HelloGreetingApp\HelloGreetingApp\obj\Debug\net6.0\HelloGreetingApp.sourcelink.json

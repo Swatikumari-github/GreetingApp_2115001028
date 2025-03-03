@@ -30,10 +30,9 @@ namespace HelloGreetingApp.Controllers
         /// <returns>Hello,World!</returns>
 
         [HttpGet]
-       public IActionResult Get()
+       public IActionResult Get([FromQuery] string? firstName, [FromQuery] string? lastName)
         {
-            var message = _greetingService.GetGreeting();
-
+            var message = _greetingService.GetGreeting(firstName, lastName);
             _logger.LogInformation("GET method called.");
             ResponseModel<String> responseModel = new ResponseModel<string>();
          
