@@ -1,0 +1,12 @@
+C:\Users\swati\OneDrive\Desktop\HelloGreetingApp\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+C:\Users\swati\OneDrive\Desktop\HelloGreetingApp\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+C:\Users\swati\OneDrive\Desktop\HelloGreetingApp\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\swati\OneDrive\Desktop\HelloGreetingApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\swati\OneDrive\Desktop\HelloGreetingApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swati\OneDrive\Desktop\HelloGreetingApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\swati\OneDrive\Desktop\HelloGreetingApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+C:\Users\swati\OneDrive\Desktop\HelloGreetingApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\swati\OneDrive\Desktop\HelloGreetingApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+C:\Users\swati\OneDrive\Desktop\HelloGreetingApp\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+C:\Users\swati\OneDrive\Desktop\HelloGreetingApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\swati\OneDrive\Desktop\HelloGreetingApp\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
