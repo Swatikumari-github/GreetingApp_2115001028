@@ -19,6 +19,11 @@ namespace HelloGreetingApp.Controllers
     {
         private readonly ILogger<HelloGreetingAppController> _logger;
         private readonly IGreetingService _greetingService;
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="logger"></param>
+        /// <param name="greetingService"></param>
         public HelloGreetingAppController(ILogger<HelloGreetingAppController> logger, IGreetingService greetingService)
         {
             _logger = logger;
