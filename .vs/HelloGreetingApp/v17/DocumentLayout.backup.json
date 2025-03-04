@@ -1,137 +1,74 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\",
+  "WorkspaceRootPath": "C:\\CGProject\\GreetingApp_2115001028\\",
   "Documents": [
     {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\hellogreetingapp\\controllers\\hellogreetingappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A79F4F0-1D27-4EB2-9AEB-F2F25A7A5C85}|BusinessLayer\\BusinessLayer.csproj|c:\\cgproject\\greetingapp_2115001028\\businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A79F4F0-1D27-4EB2-9AEB-F2F25A7A5C85}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|c:\\cgproject\\greetingapp_2115001028\\hellogreetingapp\\controllers\\hellogreetingappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|solutionrelative:hellogreetingapp\\controllers\\hellogreetingappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A79F4F0-1D27-4EB2-9AEB-F2F25A7A5C85}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\businesslayer\\service\\greetingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A79F4F0-1D27-4EB2-9AEB-F2F25A7A5C85}|BusinessLayer\\BusinessLayer.csproj|c:\\cgproject\\greetingapp_2115001028\\businesslayer\\service\\greetingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A79F4F0-1D27-4EB2-9AEB-F2F25A7A5C85}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\service\\greetingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A79F4F0-1D27-4EB2-9AEB-F2F25A7A5C85}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\businesslayer\\interface\\igreetingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A79F4F0-1D27-4EB2-9AEB-F2F25A7A5C85}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\interface\\igreetingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A79F4F0-1D27-4EB2-9AEB-F2F25A7A5C85}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\businesslayer\\interface\\igreetingbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A79F4F0-1D27-4EB2-9AEB-F2F25A7A5C85}|BusinessLayer\\BusinessLayer.csproj|c:\\cgproject\\greetingapp_2115001028\\businesslayer\\interface\\igreetingbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A79F4F0-1D27-4EB2-9AEB-F2F25A7A5C85}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\interface\\igreetingbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A79F4F0-1D27-4EB2-9AEB-F2F25A7A5C85}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\businesslayer\\service\\greetingbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A79F4F0-1D27-4EB2-9AEB-F2F25A7A5C85}|BusinessLayer\\BusinessLayer.csproj|c:\\cgproject\\greetingapp_2115001028\\businesslayer\\interface\\igreetingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A79F4F0-1D27-4EB2-9AEB-F2F25A7A5C85}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\interface\\igreetingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A79F4F0-1D27-4EB2-9AEB-F2F25A7A5C85}|BusinessLayer\\BusinessLayer.csproj|c:\\cgproject\\greetingapp_2115001028\\businesslayer\\service\\greetingbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A79F4F0-1D27-4EB2-9AEB-F2F25A7A5C85}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\service\\greetingbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{245285AD-3AD2-4FF6-A945-391D020C5E42}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\repositorylayer\\interface\\igreetingrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{245285AD-3AD2-4FF6-A945-391D020C5E42}|RepositoryLayer\\RepositoryLayer.csproj|c:\\cgproject\\greetingapp_2115001028\\repositorylayer\\interface\\igreetingrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{245285AD-3AD2-4FF6-A945-391D020C5E42}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\interface\\igreetingrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{3A79F4F0-1D27-4EB2-9AEB-F2F25A7A5C85}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\businesslayer\\interface\\igreetingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A79F4F0-1D27-4EB2-9AEB-F2F25A7A5C85}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\interface\\igreetingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A79F4F0-1D27-4EB2-9AEB-F2F25A7A5C85}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\businesslayer\\interface\\igreetingbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A79F4F0-1D27-4EB2-9AEB-F2F25A7A5C85}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\interface\\igreetingbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\hellogreetingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|solutionrelative:hellogreetingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\hellogreetingapp\\controllers\\hellogreetingappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|solutionrelative:hellogreetingapp\\controllers\\hellogreetingappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A79F4F0-1D27-4EB2-9AEB-F2F25A7A5C85}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\businesslayer\\service\\greetingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A79F4F0-1D27-4EB2-9AEB-F2F25A7A5C85}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\service\\greetingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A79F4F0-1D27-4EB2-9AEB-F2F25A7A5C85}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\businesslayer\\service\\greetingbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A79F4F0-1D27-4EB2-9AEB-F2F25A7A5C85}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\service\\greetingbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> UC2
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{245285AD-3AD2-4FF6-A945-391D020C5E42}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\repositorylayer\\service\\greetingrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{245285AD-3AD2-4FF6-A945-391D020C5E42}|RepositoryLayer\\RepositoryLayer.csproj|c:\\cgproject\\greetingapp_2115001028\\repositorylayer\\service\\greetingrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{245285AD-3AD2-4FF6-A945-391D020C5E42}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\service\\greetingrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\hellogreetingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|c:\\cgproject\\greetingapp_2115001028\\hellogreetingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|solutionrelative:hellogreetingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\hellogreetingapp\\hellogreetingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|c:\\cgproject\\greetingapp_2115001028\\hellogreetingapp\\hellogreetingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|solutionrelative:hellogreetingapp\\hellogreetingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\hellogreetingapp\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|c:\\cgproject\\greetingapp_2115001028\\hellogreetingapp\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|solutionrelative:hellogreetingapp\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\hellogreetingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|c:\\cgproject\\greetingapp_2115001028\\hellogreetingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|solutionrelative:hellogreetingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-=======
-      "AbsoluteMoniker": "D:0:0:{245285AD-3AD2-4FF6-A945-391D020C5E42}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\repositorylayer\\interface\\igreetingrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{245285AD-3AD2-4FF6-A945-391D020C5E42}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\interface\\igreetingrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\hellogreetingapp\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|solutionrelative:hellogreetingapp\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\hellogreetingapp\\hellogreetingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|solutionrelative:hellogreetingapp\\hellogreetingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\hellogreetingapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|solutionrelative:hellogreetingapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
->>>>>>> UC2
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{245285AD-3AD2-4FF6-A945-391D020C5E42}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\repositorylayer\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{245285AD-3AD2-4FF6-A945-391D020C5E42}|RepositoryLayer\\RepositoryLayer.csproj|c:\\cgproject\\greetingapp_2115001028\\repositorylayer\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{245285AD-3AD2-4FF6-A945-391D020C5E42}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{3A79F4F0-1D27-4EB2-9AEB-F2F25A7A5C85}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3A79F4F0-1D27-4EB2-9AEB-F2F25A7A5C85}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2EDDE5B-7635-4510-9E6A-789B42B92E9C}|ModelLayer\\ModelLayer.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\modellayer\\modellayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{A2EDDE5B-7635-4510-9E6A-789B42B92E9C}|ModelLayer\\ModelLayer.csproj|c:\\cgproject\\greetingapp_2115001028\\modellayer\\modellayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A2EDDE5B-7635-4510-9E6A-789B42B92E9C}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\modellayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\hellogreetingapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|c:\\cgproject\\greetingapp_2115001028\\hellogreetingapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|solutionrelative:hellogreetingapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2EDDE5B-7635-4510-9E6A-789B42B92E9C}|ModelLayer\\ModelLayer.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\modellayer\\model\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2EDDE5B-7635-4510-9E6A-789B42B92E9C}|ModelLayer\\ModelLayer.csproj|c:\\cgproject\\greetingapp_2115001028\\modellayer\\model\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2EDDE5B-7635-4510-9E6A-789B42B92E9C}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\model\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2EDDE5B-7635-4510-9E6A-789B42B92E9C}|ModelLayer\\ModelLayer.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\modellayer\\model\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2EDDE5B-7635-4510-9E6A-789B42B92E9C}|ModelLayer\\ModelLayer.csproj|c:\\cgproject\\greetingapp_2115001028\\modellayer\\model\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2EDDE5B-7635-4510-9E6A-789B42B92E9C}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\model\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\hellogreetingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|solutionrelative:hellogreetingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2EDDE5B-7635-4510-9E6A-789B42B92E9C}|ModelLayer\\ModelLayer.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\modellayer\\model\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2EDDE5B-7635-4510-9E6A-789B42B92E9C}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\model\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2EDDE5B-7635-4510-9E6A-789B42B92E9C}|ModelLayer\\ModelLayer.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\modellayer\\model\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2EDDE5B-7635-4510-9E6A-789B42B92E9C}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\model\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2EDDE5B-7635-4510-9E6A-789B42B92E9C}|ModelLayer\\ModelLayer.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\modellayer\\modellayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2EDDE5B-7635-4510-9E6A-789B42B92E9C}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\modellayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A79F4F0-1D27-4EB2-9AEB-F2F25A7A5C85}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3A79F4F0-1D27-4EB2-9AEB-F2F25A7A5C85}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
->>>>>>> UC2
     }
   ],
   "DocumentGroupContainers": [
@@ -141,58 +78,39 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-          "SelectedChildIndex": 6,
-=======
-          "SelectedChildIndex": 1,
->>>>>>> UC2
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "GreetingService.cs",
-              "DocumentMoniker": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\BusinessLayer\\Service\\GreetingService.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Service\\GreetingService.cs",
-              "ToolTip": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\BusinessLayer\\Service\\GreetingService.cs",
-              "RelativeToolTip": "BusinessLayer\\Service\\GreetingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T14:19:38.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "IGreetingService.cs",
-              "DocumentMoniker": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\BusinessLayer\\Interface\\IGreetingService.cs",
+              "DocumentMoniker": "C:\\CGProject\\GreetingApp_2115001028\\BusinessLayer\\Interface\\IGreetingService.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\Interface\\IGreetingService.cs",
-              "ToolTip": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\BusinessLayer\\Interface\\IGreetingService.cs",
+              "ToolTip": "C:\\CGProject\\GreetingApp_2115001028\\BusinessLayer\\Interface\\IGreetingService.cs",
               "RelativeToolTip": "BusinessLayer\\Interface\\IGreetingService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T14:19:04.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T14:19:04.192Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "IGreetingBL.cs",
-              "DocumentMoniker": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\BusinessLayer\\Interface\\IGreetingBL.cs",
+              "DocumentMoniker": "C:\\CGProject\\GreetingApp_2115001028\\BusinessLayer\\Interface\\IGreetingBL.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\Interface\\IGreetingBL.cs",
-              "ToolTip": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\BusinessLayer\\Interface\\IGreetingBL.cs",
+              "ToolTip": "C:\\CGProject\\GreetingApp_2115001028\\BusinessLayer\\Interface\\IGreetingBL.cs",
               "RelativeToolTip": "BusinessLayer\\Interface\\IGreetingBL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T09:58:45.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T09:58:45.496Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "GreetingBL.cs",
-              "DocumentMoniker": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\BusinessLayer\\Service\\GreetingBL.cs",
+              "DocumentMoniker": "C:\\CGProject\\GreetingApp_2115001028\\BusinessLayer\\Service\\GreetingBL.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\Service\\GreetingBL.cs",
-              "ToolTip": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\BusinessLayer\\Service\\GreetingBL.cs",
+              "ToolTip": "C:\\CGProject\\GreetingApp_2115001028\\BusinessLayer\\Service\\GreetingBL.cs",
               "RelativeToolTip": "BusinessLayer\\Service\\GreetingBL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -200,11 +118,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "IGreetingRL.cs",
-              "DocumentMoniker": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\RepositoryLayer\\Interface\\IGreetingRL.cs",
+              "DocumentMoniker": "C:\\CGProject\\GreetingApp_2115001028\\RepositoryLayer\\Interface\\IGreetingRL.cs",
               "RelativeDocumentMoniker": "RepositoryLayer\\Interface\\IGreetingRL.cs",
-              "ToolTip": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\RepositoryLayer\\Interface\\IGreetingRL.cs",
+              "ToolTip": "C:\\CGProject\\GreetingApp_2115001028\\RepositoryLayer\\Interface\\IGreetingRL.cs",
               "RelativeToolTip": "RepositoryLayer\\Interface\\IGreetingRL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -212,11 +130,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "GreetingRL.cs",
-              "DocumentMoniker": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\RepositoryLayer\\Service\\GreetingRL.cs",
+              "DocumentMoniker": "C:\\CGProject\\GreetingApp_2115001028\\RepositoryLayer\\Service\\GreetingRL.cs",
               "RelativeDocumentMoniker": "RepositoryLayer\\Service\\GreetingRL.cs",
-              "ToolTip": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\RepositoryLayer\\Service\\GreetingRL.cs",
+              "ToolTip": "C:\\CGProject\\GreetingApp_2115001028\\RepositoryLayer\\Service\\GreetingRL.cs",
               "RelativeToolTip": "RepositoryLayer\\Service\\GreetingRL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -224,45 +142,61 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 0,
-=======
-              "DocumentIndex": 3,
->>>>>>> UC2
+              "DocumentIndex": 1,
               "Title": "HelloGreetingAppController.cs",
-              "DocumentMoniker": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\HelloGreetingApp\\Controllers\\HelloGreetingAppController.cs",
+              "DocumentMoniker": "C:\\CGProject\\GreetingApp_2115001028\\HelloGreetingApp\\Controllers\\HelloGreetingAppController.cs",
               "RelativeDocumentMoniker": "HelloGreetingApp\\Controllers\\HelloGreetingAppController.cs",
-              "ToolTip": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\HelloGreetingApp\\Controllers\\HelloGreetingAppController.cs",
+              "ToolTip": "C:\\CGProject\\GreetingApp_2115001028\\HelloGreetingApp\\Controllers\\HelloGreetingAppController.cs",
               "RelativeToolTip": "HelloGreetingApp\\Controllers\\HelloGreetingAppController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T09:47:29.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 7,
-=======
-              "DocumentIndex": 2,
->>>>>>> UC2
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\HelloGreetingApp\\Program.cs",
+              "DocumentMoniker": "C:\\CGProject\\GreetingApp_2115001028\\HelloGreetingApp\\Program.cs",
               "RelativeDocumentMoniker": "HelloGreetingApp\\Program.cs",
-              "ToolTip": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\HelloGreetingApp\\Program.cs",
+              "ToolTip": "C:\\CGProject\\GreetingApp_2115001028\\HelloGreetingApp\\Program.cs",
               "RelativeToolTip": "HelloGreetingApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T11:33:08.49Z",
+              "WhenOpened": "2025-03-03T11:33:08.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BusinessLayer.csproj",
+              "DocumentMoniker": "C:\\CGProject\\GreetingApp_2115001028\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "BusinessLayer\\BusinessLayer.csproj",
+              "ToolTip": "C:\\CGProject\\GreetingApp_2115001028\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeToolTip": "BusinessLayer\\BusinessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T09:50:30.033Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GreetingService.cs",
+              "DocumentMoniker": "C:\\CGProject\\GreetingApp_2115001028\\BusinessLayer\\Service\\GreetingService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Service\\GreetingService.cs",
+              "ToolTip": "C:\\CGProject\\GreetingApp_2115001028\\BusinessLayer\\Service\\GreetingService.cs",
+              "RelativeToolTip": "BusinessLayer\\Service\\GreetingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:19:38.785Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "HelloGreetingApp.csproj",
-              "DocumentMoniker": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\HelloGreetingApp\\HelloGreetingApp.csproj",
+              "DocumentMoniker": "C:\\CGProject\\GreetingApp_2115001028\\HelloGreetingApp\\HelloGreetingApp.csproj",
               "RelativeDocumentMoniker": "HelloGreetingApp\\HelloGreetingApp.csproj",
-              "ToolTip": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\HelloGreetingApp\\HelloGreetingApp.csproj",
+              "ToolTip": "C:\\CGProject\\GreetingApp_2115001028\\HelloGreetingApp\\HelloGreetingApp.csproj",
               "RelativeToolTip": "HelloGreetingApp\\HelloGreetingApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -270,11 +204,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "nlog.config",
-              "DocumentMoniker": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\HelloGreetingApp\\nlog.config",
+              "DocumentMoniker": "C:\\CGProject\\GreetingApp_2115001028\\HelloGreetingApp\\nlog.config",
               "RelativeDocumentMoniker": "HelloGreetingApp\\nlog.config",
-              "ToolTip": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\HelloGreetingApp\\nlog.config",
+              "ToolTip": "C:\\CGProject\\GreetingApp_2115001028\\HelloGreetingApp\\nlog.config",
               "RelativeToolTip": "HelloGreetingApp\\nlog.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -282,11 +216,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\HelloGreetingApp\\appsettings.json",
+              "DocumentMoniker": "C:\\CGProject\\GreetingApp_2115001028\\HelloGreetingApp\\appsettings.json",
               "RelativeDocumentMoniker": "HelloGreetingApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\HelloGreetingApp\\appsettings.json",
+              "ToolTip": "C:\\CGProject\\GreetingApp_2115001028\\HelloGreetingApp\\appsettings.json",
               "RelativeToolTip": "HelloGreetingApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -294,11 +228,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "RepositoryLayer.csproj",
-              "DocumentMoniker": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\RepositoryLayer\\RepositoryLayer.csproj",
+              "DocumentMoniker": "C:\\CGProject\\GreetingApp_2115001028\\RepositoryLayer\\RepositoryLayer.csproj",
               "RelativeDocumentMoniker": "RepositoryLayer\\RepositoryLayer.csproj",
-              "ToolTip": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\RepositoryLayer\\RepositoryLayer.csproj",
+              "ToolTip": "C:\\CGProject\\GreetingApp_2115001028\\RepositoryLayer\\RepositoryLayer.csproj",
               "RelativeToolTip": "RepositoryLayer\\RepositoryLayer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -306,23 +240,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "BusinessLayer.csproj",
-              "DocumentMoniker": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\BusinessLayer\\BusinessLayer.csproj",
-              "RelativeDocumentMoniker": "BusinessLayer\\BusinessLayer.csproj",
-              "ToolTip": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\BusinessLayer\\BusinessLayer.csproj",
-              "RelativeToolTip": "BusinessLayer\\BusinessLayer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-03T09:50:30.033Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "ModelLayer.csproj",
-              "DocumentMoniker": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\ModelLayer\\ModelLayer.csproj",
+              "DocumentMoniker": "C:\\CGProject\\GreetingApp_2115001028\\ModelLayer\\ModelLayer.csproj",
               "RelativeDocumentMoniker": "ModelLayer\\ModelLayer.csproj",
-              "ToolTip": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\ModelLayer\\ModelLayer.csproj",
+              "ToolTip": "C:\\CGProject\\GreetingApp_2115001028\\ModelLayer\\ModelLayer.csproj",
               "RelativeToolTip": "ModelLayer\\ModelLayer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -330,11 +252,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\HelloGreetingApp\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\CGProject\\GreetingApp_2115001028\\HelloGreetingApp\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "HelloGreetingApp\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\HelloGreetingApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\CGProject\\GreetingApp_2115001028\\HelloGreetingApp\\Properties\\launchSettings.json",
               "RelativeToolTip": "HelloGreetingApp\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -342,11 +264,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ResponseModel.cs",
-              "DocumentMoniker": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\ModelLayer\\Model\\ResponseModel.cs",
+              "DocumentMoniker": "C:\\CGProject\\GreetingApp_2115001028\\ModelLayer\\Model\\ResponseModel.cs",
               "RelativeDocumentMoniker": "ModelLayer\\Model\\ResponseModel.cs",
-              "ToolTip": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\ModelLayer\\Model\\ResponseModel.cs",
+              "ToolTip": "C:\\CGProject\\GreetingApp_2115001028\\ModelLayer\\Model\\ResponseModel.cs",
               "RelativeToolTip": "ModelLayer\\Model\\ResponseModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -354,11 +276,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "RequestModel.cs",
-              "DocumentMoniker": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\ModelLayer\\Model\\RequestModel.cs",
+              "DocumentMoniker": "C:\\CGProject\\GreetingApp_2115001028\\ModelLayer\\Model\\RequestModel.cs",
               "RelativeDocumentMoniker": "ModelLayer\\Model\\RequestModel.cs",
-              "ToolTip": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\ModelLayer\\Model\\RequestModel.cs",
+              "ToolTip": "C:\\CGProject\\GreetingApp_2115001028\\ModelLayer\\Model\\RequestModel.cs",
               "RelativeToolTip": "ModelLayer\\Model\\RequestModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
