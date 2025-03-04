@@ -1,8 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\",
+  "WorkspaceRootPath": "C:\\CGProject\\GreetingApp_2115001028\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\hellogreetingapp\\controllers\\hellogreetingappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|solutionrelative:hellogreetingapp\\controllers\\hellogreetingappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -69,6 +70,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2EDDE5B-7635-4510-9E6A-789B42B92E9C}|ModelLayer\\ModelLayer.csproj|c:\\users\\swati\\onedrive\\desktop\\hellogreetingapp\\modellayer\\model\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2EDDE5B-7635-4510-9E6A-789B42B92E9C}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\model\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|c:\\cgproject\\greetingapp_2115001028\\hellogreetingapp\\controllers\\hellogreetingappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A295DE1B-3E3D-4E7C-AB66-910D36A18122}|HelloGreetingApp\\HelloGreetingApp.csproj|solutionrelative:hellogreetingapp\\controllers\\hellogreetingappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> UC2
     }
   ],
   "DocumentGroupContainers": [
@@ -78,6 +83,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 6,
           "Children": [
             {
@@ -157,16 +163,23 @@
             },
             {
               "$type": "Document",
+=======
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+>>>>>>> UC2
               "DocumentIndex": 0,
               "Title": "HelloGreetingAppController.cs",
-              "DocumentMoniker": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\HelloGreetingApp\\Controllers\\HelloGreetingAppController.cs",
+              "DocumentMoniker": "C:\\CGProject\\GreetingApp_2115001028\\HelloGreetingApp\\Controllers\\HelloGreetingAppController.cs",
               "RelativeDocumentMoniker": "HelloGreetingApp\\Controllers\\HelloGreetingAppController.cs",
-              "ToolTip": "C:\\Users\\swati\\OneDrive\\Desktop\\HelloGreetingApp\\HelloGreetingApp\\Controllers\\HelloGreetingAppController.cs",
+              "ToolTip": "C:\\CGProject\\GreetingApp_2115001028\\HelloGreetingApp\\Controllers\\HelloGreetingAppController.cs",
               "RelativeToolTip": "HelloGreetingApp\\Controllers\\HelloGreetingAppController.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T09:47:29.159Z",
               "EditorCaption": ""
+<<<<<<< HEAD
             },
             {
               "$type": "Document",
@@ -287,6 +300,8 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T11:05:16.725Z"
+=======
+>>>>>>> UC2
             }
           ]
         }
