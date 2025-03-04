@@ -1,2 +1,7 @@
 .vs
+HelloGreetingApp/obj/
+BusinessLayer/obj/
+ModelLayer/obj/
+RepositoryLayer/obj/
+obj\
 obj/
